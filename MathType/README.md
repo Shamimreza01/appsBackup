@@ -1,6 +1,6 @@
 # 🌟 MathType Full Installation Guideline 🌟
 
-### **MathType 6.9 Installer Download Link**: [📥 Download here](link)
+### **MathType 6.9 Installer Download Link**: [📥 Download here](https://github.com/Shamimreza01/appsBackup/raw/refs/heads/main/MathType/MathType6.9.exe)
 
 ---
 
